@@ -1,4 +1,4 @@
-👋 Welcome to @opendatacp !
+👋 Welcome to Open Data College Park!
 
 A volunteer-run open source project to consolidate public datasets about the College Park community for the College Park community.
 
